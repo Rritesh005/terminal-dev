@@ -78,27 +78,49 @@ The goal of this project is to combine aesthetics and functionality while demons
 
 ## 📂 Project Structure
 
-```bash
-terminal-dev/
-│
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.tsx
-│   ├── main.tsx
-│   ├── index.css
-│   └── types.ts
-│
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
+## 🏗️ Architecture
+
+<table>
+<tr>
+<td width="50%">
+
+### 📂 Frontend
+
+- ⚛️ React
+- 🔷 TypeScript
+- ⚡ Vite
+- 🎨 CSS3
+
+</td>
+<td width="50%">
+
+### 📁 Source
+
+- 🧩 Reusable Components
+- 🖼️ Assets & Resources
+- 📝 Type Definitions
+- 🚀 Application Entry
+
+</td>
+</tr>
+</table>
+
+## 📁 Directory Structure
+
+```text
+📦 terminal-dev
+┣ 📂 src
+┃ ┣ 📂 components
+┃ ┣ 📂 assets
+┃ ┣ 📄 App.tsx
+┃ ┣ 📄 main.tsx
+┃ ┣ 📄 types.ts
+┃ ┗ 📄 index.css
+┣ 📄 package.json
+┣ 📄 vite.config.ts
+┣ 📄 tsconfig.json
+┗ 📄 README.md
 ```
-
----
-
-## 🚀 Getting Started
 
 ### Clone the Repository
 
