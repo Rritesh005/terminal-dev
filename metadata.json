@@ -1,0 +1,6 @@
+{
+  "name": "terminal DEV.LOG",
+  "description": "A premium, high-contrast minimalist developer blogging platform and log viewer designed for visual precision and extreme readability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
