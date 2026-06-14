@@ -1,4 +1,32 @@
 # 🚀 Terminal Dev
+<div align="center">
+
+### Modern Terminal-Inspired Portfolio
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-00C853?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Terminal+Inspired+Developer+Portfolio;Built+with+React+%2B+TypeScript;Modern+Frontend+Development;Responsive+and+Interactive+UI" />
+</p>
+
+</div>
+
+---
+
+## ✨ Features
+
+🟢 Responsive Design  
+🔵 TypeScript Powered  
+🟣 Reusable Components  
+🟡 Modern UI/UX  
+🔴 Fast Vite Build System
+
+---
 
 <div align="center">
 
